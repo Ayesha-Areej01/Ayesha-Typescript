@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Ayesha",
+    "lastName": "Aay",
+    "gender": "23",
+    "age": null,
+    "mobileNumber": "6785674",
+    "bankAccount": {
+      "accountBalance": 67890
+    }
+  },
+  {
+    "firstName": "Ayesha",
+    "lastName": "Aay",
+    "gender": "Female",
+    "age": 20,
+    "mobileNumber": "35465687",
+    "accountBalance": 34576867
+  }
+]

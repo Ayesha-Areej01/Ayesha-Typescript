@@ -1,0 +1,35 @@
+{
+  "name": "typescript-projects",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "bin": "./calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayesha Aay",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayesha-Areej01/AyeshaAreej-PIAIC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ayesha-Areej01/AyeshaAreej-PIAIC/issues"
+  },
+  "homepage": "https://github.com/Ayesha-Areej01/AyeshaAreej-PIAIC#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.12",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.10.2",
+    "@types/readline-sync": "^1.4.5"
+  }
+}
