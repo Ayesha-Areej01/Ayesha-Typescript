@@ -1,3 +1,3 @@
-#TYPESCRIPT PROJECTS
+TYPESCRIPT PROJECTS
 
-Panaverse Quarter 1 projects Completed by Me.
+Panaverse Quarter 1 projects Completed by Ayesha Areej
